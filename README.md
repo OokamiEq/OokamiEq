@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack developer and passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif">
 
-- 🔭 I’m currently working on **Fashion photography helper**
+- 🔭 I’m currently working on **Jay and Ivy subscription landing**
 
 - 🌱 I’m currently learning **React Native, TypeScript**
 
